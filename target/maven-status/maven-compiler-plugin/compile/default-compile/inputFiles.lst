@@ -1,0 +1,7 @@
+/home/km/Pulpit/weather-app/src/main/java/com/marcol/weather/service/WeatherService.java
+/home/km/Pulpit/weather-app/src/main/java/com/marcol/weather/controller/WeatherController.java
+/home/km/Pulpit/weather-app/src/main/java/com/marcol/weather/service/WeatherServiceImpl.java
+/home/km/Pulpit/weather-app/src/main/java/com/marcol/weather/WeatherAppApplication.java
+/home/km/Pulpit/weather-app/src/main/java/com/marcol/weather/model/RequestInfo.java
+/home/km/Pulpit/weather-app/src/main/java/com/marcol/weather/model/DailyData.java
+/home/km/Pulpit/weather-app/src/main/java/com/marcol/weather/repository/RequestInfoRepository.java
